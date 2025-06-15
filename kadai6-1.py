@@ -22,5 +22,5 @@ print(data)
 取得したデータの種類：簡易生命表
 エンドポイント：エンドポイントはhttp://api.e-stat.go.jp/rest/3.0/app/json/getStatsData
 機能：簡易生命表の中から時間軸が2023年で指定され、年齢区分が105～年であるものをapiを利用して表示する
-使い方：python3 kadai6-0a.pyとターミナルで入力する
+使い方：python3 kadai6-1.pyとターミナルで入力する
 """
