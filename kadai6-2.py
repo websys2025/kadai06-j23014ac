@@ -65,5 +65,5 @@ print(df)
 参照するオープンデータの名前と概要：eStat-APIの生乳生産量
 エンドポイント：http://api.e-stat.go.jp/rest/3.0/app/json/getStatsData
 機能：生乳生産量の中から都道府県を千葉に指定され、生乳生産量を年計の実数に指定したものをapiを利用して表示する
-使い方：python3 kadai6-0b.pyとターミナルで入力する
+使い方：python3 kadai6-2.pyとターミナルで入力する
 """
